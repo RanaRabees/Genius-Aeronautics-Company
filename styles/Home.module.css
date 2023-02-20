@@ -1,0 +1,111 @@
+/* .container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://cdn.pixabay.com/photo/2014/07/28/20/39/sunset-404072__340.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: brown;
+} */
+.apimaindiv{
+  text-align: center;
+  color: aquamarine;
+  height: 100%;
+}
+
+/* .blognocontainer {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/262/547/small/coworkers-discussing-reports-free-photo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+} */
+
+.aboutpagecontainer {
+  background-image: url("https://cdn.pixabay.com/photo/2014/07/28/20/39/sunset-404072__340.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+  font-style: italic;
+  font-family: monospace;
+  font-weight: bold;
+}
+.ninagauser{
+  padding: 2px 16px;
+  padding-top: 20px;
+  background: bisque;
+  display: block;
+  margin: 20px 10px;
+  height: 50px;
+  border-left: 8px solid #fff;
+  font-style: italic;
+  font-weight: bolder;
+  border-radius: 5px;
+}
+.ninagauser:hover{
+  border-left: 15px solid #0070f3;
+  border-right: 15px solid #0070f3;
+  border-radius: 10px;
+}
+
+.mainbtn {
+  background-color: cornflowerblue;
+  text-align: center;
+  padding-bottom: 0;
+  margin-right: 20px;
+  margin: 30px;
+  color: greenyellow;
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-style: italic;
+  font-family: algerian;
+  border-radius: 15%;
+  width: 100px;
+  height: 60px;
+}
+.mainbtn:hover {
+  border-radius: 23%;
+  background-color: darkkhaki;
+  color: olivedrab;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.34), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.ratitle{
+  font-size: 30px;
+  color: red;
+  font-style: italic;
+  font-family: monospace;
+  font-weight: bold;
+  padding-top: 20px;
+  background: bisque;
+  display: block;
+  margin: 20px 10px;
+  height: 50px;
+  border-left: 8px solid #fff;
+  font-style: italic;
+  font-weight: bolder;
+  border-radius: 5px;
+}
+.ratitle:hover{
+  border-left: 15px solid #0070f3;
+  border-right: 15px solid #0070f3;
+  border-radius: 10px;
+}
+.title {
+  margin: 0 0 1rem;
+  line-height: 1.15;
+  font-size: 3.6rem;
+  text-align: center;
+  padding: 2px 16px;
+  
+}
+
+
+
+
